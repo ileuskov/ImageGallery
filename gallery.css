@@ -1,0 +1,35 @@
+
+	/* Adding a small padding so that the navbar and jumbotron have some space between each other*/
+body{
+	padding-top: 70px;	
+		}
+
+
+		
+	/* Styling the jumbotron*/
+.jumbotron{
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+
+
+	/* Styling the background and text colour of the navbar itself and its elements*/
+.navbar-inverse{
+	background: #2c3e50;
+}
+
+a{
+	color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+
+#author{
+	text-align: right;
+}
